@@ -1,1 +1,4 @@
 
+[submodule "conp-dataset"]
+	path = conp-dataset
+	url = https://github.com/neurohub/conp-dataset
